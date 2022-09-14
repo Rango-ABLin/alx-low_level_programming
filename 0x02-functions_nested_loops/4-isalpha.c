@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _isalpha: check description 
+ * _isalpha: check description
  * Description: prints 1 if it is a character else prints 0
- * @d: input character
- *
+ * @c: input character
+ * Return:1 for a character else 0
  */
 int _isalpha(int c)
 {
