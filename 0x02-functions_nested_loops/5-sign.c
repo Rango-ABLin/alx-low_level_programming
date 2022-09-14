@@ -6,7 +6,8 @@
  * Description: function returns 1 if the number is a
  * greater than 1, 0 if it 0, and -1 if it is <1.
  *
- * It also prints the sign of the number dependent on
+ * print_sign: check description
+ * Description: It also prints the sign of the number dependent on
  * whether it is less or greater than 1
  * Return: 1 or 0 in otherwise.
  */
