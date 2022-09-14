@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * main- the starting point of application
- *
- * Return: 0 for success
+ * print_alphabet function print out the alphabet using a customised header file
  */
 void print_alphabet(void)
 {
