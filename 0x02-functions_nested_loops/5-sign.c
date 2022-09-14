@@ -1,15 +1,11 @@
 #include "main.h"
 
 /**
- * _isalpha - Check Holberton
- * @n: An input character
- * Description: function returns 1 if the number is a
- * greater than 1, 0 if it 0, and -1 if it is <1.
- *
- * print_sign: check description
- * Description: It also prints the sign of the number dependent on
- * whether it is less or greater than 1
- * Return: 1 or 0 in otherwise.
+ * print_sign - Check Holberton
+ * @n: An input number
+ * Description: Tohis function prints the sign of the number
+ * Return: 1 if number is positive, o if number is 0, or
+ * -1 if number is negative
  */
 int print_sign(int n)
 {
