@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * print_alphabet: Check Description
- * Description: It is called in the 1-main.c to print the alphabet
+ * print_alphabet - Check description
+ * Description: It prints the alphabet in lowercase fallowed by a new line
+ * Return: Nothing.
  */
 void print_alphabet(void)
 {
