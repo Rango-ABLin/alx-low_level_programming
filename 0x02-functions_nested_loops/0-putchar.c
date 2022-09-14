@@ -5,7 +5,7 @@
  */
 int main()
 {
-	string input_[8] = "_inputchar";
+	char input_[8] = "_inputchar";
 
 	for (int i = 0; i < 8; i++)
 	{
