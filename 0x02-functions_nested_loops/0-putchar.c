@@ -5,7 +5,7 @@
  */
 int main()
 {
-	char input_[8] = "_inputchar";
+	char input_[8] = "_putchar";
 	int i;
 
 	for (i = 0; i < 8; i++)
