@@ -2,7 +2,9 @@
 
 /**
  * main-the starting point of applications
- * print_sign: prints the sign of the number
+ * print_sign: check description
+ * Description: The function prints out the sign of the number,
+ * + for numbers greater than 1, - for numbers less than 1, 0 for 0
  *
  * Return: 0 for success
  */
