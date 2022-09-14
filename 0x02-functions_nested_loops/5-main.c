@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * main-the starting point of applications
- * print_sign: The function prints out the sign of the number,
- * + for numbers greater than 1, - for numbers less than 1, 0 for 0
- *
- * Return: 0 for success
+ * print_sign - Check Holberton
+ * @n: An input number
+ * Description: Tohis function prints the sign of the number
+ * Return: 1 if number is positive, o if number is 0, or
+ * -1 if number is negative
  */
 int main(void)
 {
