@@ -2,8 +2,10 @@
 
 /**
  * main-the starting point of applications
+ *
+ * Return: 0 for success
  */
-int main()
+int main(void)
 {
 	char input_[8] = "_putchar";
 	int i;
