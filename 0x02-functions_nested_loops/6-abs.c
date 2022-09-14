@@ -2,7 +2,7 @@
 
 /**
  *_abs - Check Description
- * @r: An integre input
+ * @i: An integre input
  * Description: This function returns absolute value of a number
  * Return: Absolut value of number r
  */
