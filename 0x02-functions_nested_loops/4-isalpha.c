@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * _isalpha: check description
- * Description: prints 1 if it is a character else prints 0
- * @c: input character
- * Return:1 for a character else 0
+ * _isalpha - Check Holberton
+ * @c: An input character
+ * Description: function returns 1 if the character is a
+ * letter, lowercase or uppercase.
+ * Return: 1 or 0 in otherwise.
  */
 int _isalpha(int c)
 {
