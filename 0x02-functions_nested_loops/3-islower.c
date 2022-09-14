@@ -2,6 +2,7 @@
 
 /**
  * _islower - Check description
+ * @c: is an input character
  * Description: returns 0 or 1 if it is uppercase $ lowercase respectively
  * Return: Nothing
  */
