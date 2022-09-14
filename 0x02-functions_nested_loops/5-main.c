@@ -2,6 +2,7 @@
 
 /**
  * main-the starting point of applications
+ * print_sign: prints the sign of the number
  *
  * Return: 0 for success
  */
