@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabet prints out the alphabet using a customised header file
- *
+ * print_alphabet: Check Description
  * Description: It is called in the 1-main.c to print the alphabet
  */
 void print_alphabet(void)
