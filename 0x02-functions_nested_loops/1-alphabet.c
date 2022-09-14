@@ -3,7 +3,7 @@
 /**
  * print_alphabet prints out the alphabet using a customised header file
  *
- * This function is called in the 1-main.c to print the alphabet
+ * Description: It is called in the 1-main.c to print the alphabet
  */
 void print_alphabet(void)
 {
