@@ -10,10 +10,10 @@ int main()
 
 	for (i = 0; i < 8; i++)
 	{
-		_inputchar(input_[i]);
+		_putchar(input_[i]);
 	}
 
-	_inputchar('\n');
+	_putchar('\n');
 	return (0);
 
 }
