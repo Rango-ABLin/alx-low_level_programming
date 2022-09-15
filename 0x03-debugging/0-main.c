@@ -3,9 +3,8 @@
 /**
  * main-the starting point of applications
  * Description: Positive or negative number proof
- *
  * @num is for the input character
- * main takes in the function positive_or_negative function
+ * main takes in positive_or_negative function
  * Return: 0 for success
  */
 int main(void)
