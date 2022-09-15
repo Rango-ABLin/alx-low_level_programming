@@ -2,8 +2,7 @@
 
 /**
  * main-the starting point of applications
- *
- * @num: input character
+ *Description: Positive or negative number proof
  * Return: 0 for success
  */
 int main(void)
