@@ -3,7 +3,6 @@
 /**
  * main-the starting point of application
  * @num is for the input character 
- *
  * Return: 0 for success
  */
 int main(void)
