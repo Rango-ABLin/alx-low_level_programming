@@ -9,7 +9,8 @@
  */
 char *_strncpy(char *dest, char *src, int n)
 {
-	int srclen = 0, i = 0;
+	int srclen = 0;
+	int i = 0;
 	char *temp = dest, *start = src;
 
 	while (*src)
