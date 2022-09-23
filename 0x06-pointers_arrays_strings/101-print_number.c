@@ -1,8 +1,8 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * print_number - print an integer using only _putchar
- * @n: integer to print 
+ * print_number - Print an integer using only _putchar
+ * @n: integer to print
  */
 
 void print_number(int n)
@@ -16,7 +16,7 @@ void print_number(int n)
 	hold = n;
 	if (n < 0)
 	{
-		_putchar('_');
+		_putchar('-');
 		neg = 1;
 	}
 
@@ -34,9 +34,10 @@ void print_number(int n)
 				_putchar((n / power % 10) + '0');
 			else
 				_putchar((n / power % 10) * -1 + '0');
+
 			power /= 10;
 		}
-		if (power ==1)
+		if (power == 1)
 		{
 			if (neg)
 				_putchar((n % 10) * -1 + '0');
