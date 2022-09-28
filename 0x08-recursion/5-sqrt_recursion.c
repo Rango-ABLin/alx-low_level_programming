@@ -21,7 +21,7 @@ int _sqrt_recursion(int n)
  * Return: the square root
  */
 int _sqrt(int prev, int root)
-{	
+{
 	if (prev > root)
 		return (-1);
 	else if (prev * prev == root)
